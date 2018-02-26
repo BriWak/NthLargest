@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/digitalat032590/GitProjects/nthLargest/src/test/scala/nthLargestSpec.scala:8:7: not found: value nthLargest[0m
+[0m[[0m[31merror[0m] [0m[0m      nthLargest(List(1,2,3,4,5),2) mustEqual 4[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

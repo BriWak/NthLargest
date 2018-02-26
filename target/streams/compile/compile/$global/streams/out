@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/digitalat032590/GitProjects/nthLargest/src/main/scala/app/nthLargest.scala:7:15: Boolean does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    uniqueNums(nth+1)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
